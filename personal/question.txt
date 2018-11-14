@@ -1,0 +1,3 @@
+1|What is the use of "echo" in php?
+2|What is the use of in_array() function in php?
+3|How to include a file to a php pag?

@@ -1,0 +1,3 @@
+1|It is used to print data in the webpage.
+2|It is used to check whether a value exists in an array.
+3|We can include a file using "include()" or "require()" function with file path as its parameter.
